@@ -1,0 +1,9 @@
+[submodule "web"]
+	path = web
+	url = ./web
+[submodule "train_model"]
+	path = train_model
+	url = ./train_model
+[submodule "smartfaces"]
+	path = smartfaces
+	url = ./smartfaces
